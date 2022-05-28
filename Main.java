@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    String relativePath = "./RegistroConsumo.txt";
+    String relativePath = "RegistroConsumo.txt";
 
     // CREAR LISTA DE CONSUMOS A PARTIR DE UN TXT CON FORMATO
     ListaConsumos consumos = new ListaConsumos(relativePath);
